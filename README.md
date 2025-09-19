@@ -14,11 +14,12 @@ should have installed Ollama and been able to get it running.
 4. Run the following command to confirm Ollama is installed correctly:
 	 `ollama --version`
 ## Part 2: Running Your First Model
-1. Pull and run the `LLaMA 2` model with the following command
-	`ollama run llama2`
-2. Wait a few minutes for the LLM model to download (varies depending on WIFI connection)
-3. When prompted, try it out!
-4. Finish the session by typing `/bye`
+1. Pull and run the `llama3:instruct` model with the following command
+	`ollama run llama3:instruct`
+	If you prefer a different model, there are [many to choose from](https://ollama.com/search). Feel free to try something else out, like 	`LLaMa 2` with `ollama run llama2` 
+3. Wait a few minutes for the LLM model to download (varies depending on WIFI connection)
+4. When prompted, try it out!
+5. Finish the session by typing `/bye`
 
 
 
