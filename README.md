@@ -25,6 +25,11 @@ should have installed Ollama and been able to get it running.
 
 ## Part 3: Access it via API
 
+There are two methods to verify you can access ollama via api, either Postman or through your Broswer.
+Using postman requres more steps, but is easier to understand and more powerful.
+Using your built in browser will be quicker and easier to use, but harder to debug any problems.
+
+### Using Postman
 Prerequisite [[Setup Postman Excercise]]
 
 1. Open Postman
@@ -41,3 +46,7 @@ Prerequisite [[Setup Postman Excercise]]
 	}
    ```
 8. Click Send!
+9. 
+
+### Using Your Browser
+See [notes page](./Notes.md)
