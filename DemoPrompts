@@ -1,0 +1,9 @@
+This is a list of prompts to use for the demo walkthrough
+# Prompts
+1. `Hey, can you read in the dataset at "C:\Users\mgm0214\Downloads\Kalgotra_Working_AI_Dataset.xlsx"`
+2. `Awesome work! Based on the dataset available and the crisp-dm framework, what are some good next steps?`
+3. `Ok, cool. Let's go ahead and run a missing-value audit on dataset 0.`
+4. `Interesting! Will you validate the date columns and impute missing categories on the same dataset?`
+5. `Good work! Go ahead and run the AI-Categorization tool.`
+6. `Next up lets start modeling. What are the modeling options again?`
+7. `Neat, lets try topic modeling with this dataset. When you are finished, save out the dataset to "C:\Users\mgm0214\Downloads\testoutput.xlsx"`
