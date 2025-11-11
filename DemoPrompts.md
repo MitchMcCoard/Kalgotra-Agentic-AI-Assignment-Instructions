@@ -7,6 +7,7 @@ We call these functinos tools.
 Let's take a tour of some tools built in KNIME.
 - Read in Data
 - Summary Statistics
+- Glimpse the data
 - Missing category imputation
 1. `Hey, can you read in the dataset at "C:\Users\mgm0214\Downloads\Kalgotra_Working_AI_Dataset.xlsx"`
 2. `Awesome work! Based on the dataset available and the crisp-dm framework, what are some good next steps?`
