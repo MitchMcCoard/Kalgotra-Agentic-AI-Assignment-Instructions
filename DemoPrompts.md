@@ -1,5 +1,13 @@
 This is a list of prompts to use for the demo walkthrough
 # Prompts
+Who knows about chat GPT? Uses it daily?
+Anyone heard about Agent mode? What does that mean?
+Enabling the AI (LLM) to act on your behalf. That is, to do things. Think of it as giving it acces to functinos.
+We call these functinos tools.
+Let's take a tour of some tools built in KNIME.
+- Read in Data
+- Summary Statistics
+- Missing category imputation
 1. `Hey, can you read in the dataset at "C:\Users\mgm0214\Downloads\Kalgotra_Working_AI_Dataset.xlsx"`
 2. `Awesome work! Based on the dataset available and the crisp-dm framework, what are some good next steps?`
 3. `Cool. Let's start with a missing-value audit and some summary statistics on dataset 0`
